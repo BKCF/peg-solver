@@ -13,7 +13,7 @@ Each hole in the board is notated as such:
 ```
 
 The 15 hole configuration is only solvable if the starting hole is one of the three corners,
-this defaults to hole zero. Beginning with hole 4 and 14 produce symmetrical answers.
+this defaults to hole zero. Beginning with hole 4 and 14 produces symmetrical answers.
 
 <h1>Output</h1>
 
