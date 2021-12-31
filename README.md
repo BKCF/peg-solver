@@ -1,6 +1,9 @@
 # peg-solver
 <h1>Overview</h1>
-Solves the popular tabletop "jump all but one" triangular peg game, and outputs all solutions to a text file.
+Solves the popular tabletop "jump all but one" triangular peg game, and outputs all solutions.
+
+(A greedy first-solution algorithm is also included).
+
 <img src=/pegs.jpeg width=300 height=300>
 
 Each hole in the board is notated as such:
